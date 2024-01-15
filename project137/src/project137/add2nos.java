@@ -9,6 +9,15 @@ public class add2nos {
 		int c= a + b;
 		System.out.println("sum = "+c);
 		
+		
+		
+	}
+	
+	void sub() {
+		int a=5 , b=4;
+		int c= a-b;
+		System.out.println("sum = "+c);
+		
 	}
 
 }
