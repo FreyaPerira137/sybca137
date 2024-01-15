@@ -7,5 +7,9 @@ public class clsGibHub {
 
 		System.out.println("Hello World");
 	}
+	
+	void display() {
+		System.out.println("Hi,it's me!");
+	}
 
 }
